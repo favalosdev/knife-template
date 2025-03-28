@@ -45,7 +45,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## About This Template
+## About this template
 
 This is a pre-configured React template designed for quick project bootstrapping. It includes a robust development stack with the following features:
 
